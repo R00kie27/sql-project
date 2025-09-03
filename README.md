@@ -67,6 +67,8 @@ These insights will provide a clear business condition with metrics and support 
 ## Repository Structure 🗃️
 
 sql-project/
+```
+data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
@@ -91,7 +93,6 @@ sql-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
-
 
 ## 🛡️ License
 
