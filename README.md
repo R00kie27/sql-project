@@ -1,7 +1,9 @@
 
 # Data Warehouse and Data Analytics Project 
 
-Welcome to the **Data Warehouse and Analytics Project** repository! ![SpaceGifSpaceGIF](https://github.com/user-attachments/assets/651792c5-6c8a-47c3-8fd1-c392c7e18220)
+Welcome to the **Data Warehouse and Analytics Project** repository! 
+![HasbullaHasbiGIF](https://github.com/user-attachments/assets/bf59ba06-19fe-4447-ac3d-3d635494dae7)
+
 This project will demonstrate a comprehensive data warehousing and analytics solution, from building data warehouse to generate insights. The purpose of this is to present industry best practices in data engineering and analytics.
 
 --
